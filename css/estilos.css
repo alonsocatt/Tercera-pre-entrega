@@ -1,0 +1,22 @@
+#Logo{
+    height: 60px;
+    width: 60px;
+}
+.bg-azul{
+    background-color: #565fe5;
+}
+.c-azul{
+    color: #636bd5;
+
+}
+.bg-violeta{
+        background-color: #8011f2;
+}
+.c-violeta{
+    color: #8011f2;
+}
+
+.c-blanco{
+    color: white;
+}
+
